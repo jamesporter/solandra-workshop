@@ -22,7 +22,7 @@ Links/plan for a Workshop teaching Solandra
 * Draw
 * Stroke Colour
 * SimplePath, Path
-* Rect, Star, Line, Hatching(, Arc, Ellipse, HollowArc, Regular Polygon, RoundedRect, Square)
+* Rect, Star, Line, Hatching (, Arc, Ellipse, HollowArc, Regular Polygon, RoundedRect, Square)
 * Control flow: times, downFrom, proportionately
 * Canvas flow: forTiling, forHorizontal, forVertical
 * Canvas operations: withClipping, withScale, withTranslation
