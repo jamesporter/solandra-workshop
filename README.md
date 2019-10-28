@@ -4,7 +4,7 @@ Links/plan for a Workshop teaching Solandra
 
 ## Start
 
-[Intro Slides]()
+[Intro Slides](https://github.com/jamesporter/solandra-workshop/blob/master/solandra-workshop-intro.key?raw=true)
 
 * [Code Sandbox](https://codesandbox.io/s/cold-butterfly-pzq67) **<-- key thing, open this play around (if you are used to using Webpack/Parcel etc you might want to set things up locally).**
 * [Over 100 examples with source code](https://solandra.netlify.com/main)
